@@ -1,9 +1,7 @@
 # RepoKelompok2
 Repository Kelompok 02
 
-Aplikasi Apa aja
-- Fitur A
-- Fitur B
-Fitur add Nama
-Fitur add Age
-Fitur add Birthdate
+Tipping app
+- feature 1: put a tip on how much users like
+- feature 2: choose the service that has been offered
+- feature 3: users have the option to round up the tip
