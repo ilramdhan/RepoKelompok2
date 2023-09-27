@@ -3,3 +3,4 @@ Repository Kelompok 02
 
 Coba buat aplikasi
 - feature 1
+- feature 2
