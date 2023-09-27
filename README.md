@@ -12,3 +12,4 @@ Aplikasi Apa aja
 
 Fitur add Address
 Fitur add Phone Number
+Fitur add Email
